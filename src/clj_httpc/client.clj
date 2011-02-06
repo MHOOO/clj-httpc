@@ -4,7 +4,7 @@
   (:require
     [clj-httpc.core :as core]
     [clj-httpc.util :as util]
-    [clojure.contrib.string :as str])
+    [clojure.string :as str])
   (:import
     [java.net URL]))
 
