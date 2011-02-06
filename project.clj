@@ -6,8 +6,9 @@
      "mandubian-mvn" "http://mandubian-mvn.googlecode.com/svn/trunk/mandubian-mvn/repository"}
   :dependencies
     [[org.clojure/clojure "1.3.0-alpha4"]
-     [org.clojure/contrib/logging "1.3.0-alpha4"]
-     [org.clojure/contrib/def "1.3.0-alpha4"]
+     [org.clojure.contrib/complete "1.3.0-alpha4"]
+     ;; [org.clojure/contrib/logging "1.3.0-alpha4"]
+     ;; [org.clojure/contrib/def "1.3.0-alpha4"]
      [org.apache.httpcomponents/httpclient "4.1"]
      [log4j "1.2.15" :exclusions
        [javax.mail/mail
