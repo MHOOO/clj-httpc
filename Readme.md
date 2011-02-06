@@ -1,4 +1,4 @@
-# `clj-httpc`
+### `clj-httpc` for clojure 1.3
 
 A Clojure HTTP library thinly wrapping the [Apache HttpComponents](http://hc.apache.org/) client.  This repository is forked from [clj-http](http://hc.apache.org); it will try to allow you to access the wrapped HttpComponents library if you need to.
 
